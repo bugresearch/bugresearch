@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Deniz BEKTAŞ
+### Full Stack Developer
 <!--
 **x0Deniz/x0Deniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
