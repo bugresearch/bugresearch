@@ -18,32 +18,62 @@ Aynı zamanda "Öğretmek, ikinci kere öğrenmektir" mottosuyla kişisel intern
 
 <h3>How I'd define myself...literally</h3>
 
- ```ruby
- class Sy
-   def initialize
-     @name = 'Sy Rashid'
-     @age = 29
-     @work = 'MangoTree Dev'
-     @education = [ 'Georgia Tech', 'Le Wagon' ]
-     @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
-   end
-
-   def current_location
-     'Washington D.C, USA'
-   end
-
-   def next_location
-     'Lisbon, Portugal'
-   end
-
-   def currently
-     {
-       enrolled: 'Vue - The Complete Guide (w/ Router, Vuex, Composition API)',
-       reading: 'The Pragmatic Programmer',
-       tinkering: 'Hotwire'
-      }
-   end
- end
+ ```json
+{
+    "name" : "Deniz Bektaş",
+    "birtday" : "21 June 2002",
+    "location" : "Istanbul, Turkey",
+    "education" : [
+        {
+            "type" : "High School",
+            "name" : "Kemal Hasoglu Anatolian High Scool",
+            "graduation" : "2020"
+        },
+        {
+            "type" : "Univercity",
+            "name" : "Firat Univercity",
+            "department": "Computer Engineering",
+            "site" : "www.firat.edu.tr",
+            "graduation" : "Maybe 2024..."
+        }
+    ],
+    "languages" : [
+        {
+            "name" : "Turkish",
+            "level" : "Native Speaker"
+        },
+        {
+            "name" : "English",
+            "level" : "B2"
+        },
+        {
+            "name" : "German",
+            "level" : "A1"
+        }
+    ],
+    "programming-languages": [
+        "Python","Javascript","Java","C++","PHP"
+    ],
+    "job-history" : [{"desc" : "Maybe Future..."}], 
+    "contact-me" : [
+        {
+            "name" : "Website",
+            "url" : "https://denizbektas.com.tr"
+        },
+        {
+            "name" : "Instagram",
+            "url" : "https://instagram.com/bugresearch"
+        },
+        {
+            "name" : "E-Mail",
+            "url" : "mailto:info@denizbektas.com.tr"
+        },
+        {
+            "name" : "Telegram",
+            "url" : "https://t.me/@bugresearch"
+        }
+    ]
+}
  ```
 
 <br>
