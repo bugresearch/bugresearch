@@ -10,7 +10,7 @@ Aynı zamanda "Öğretmek, ikinci kere öğrenmektir" mottosuyla kişisel intern
 <div align="center">
 
   [![Linkedin Badge](https://img.shields.io/badge/-denizbektas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denizbektas/)](https://www.linkedin.com/in/denizbektas/)
-  [![Medium Badge](https://img.shields.io/badge/-@syrashid-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com)
+  [![Medium Badge](https://img.shields.io/badge/-@bugresearch-orange?style=flat-square&label&logo=Instagram&link=https://instagram.com/bugresearch/)](https://instagram.com/bugresearch)
   [![Gmail Badge](https://img.shields.io/badge/-info@denizbektas.com.tr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@denizbektas.com.tr)](mailto:info@denizbektas.com.tr)
 </div>
 <br>
