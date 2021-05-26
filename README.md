@@ -16,7 +16,7 @@ Aynı zamanda "Öğretmek, ikinci kere öğrenmektir" mottosuyla kişisel intern
 </div>
 <br>
 
-<h3>How I'd define myself...literally</h3>
+<h3>Hakkımda</h3>
 
  ```json
 {
