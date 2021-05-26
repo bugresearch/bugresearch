@@ -1,20 +1,96 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+<h1 align="center">🤠 Merhaba, Ben Deniz Bektaş.</h1>
 
-### Languages
+<p align="center">
+Fırat Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Python, Java ve Javascript dillerinde kendi çapımda projeler geliştirmekte, ve bu geliştirdiğim projererimi github sayfamda yayınlamktayım. Github profilime hoşgeldiniz.
+</p>
+<p align="center"> 
+Aynı zamanda "Öğretmek, ikinci kere öğrenmektir" mottosuyla kişisel internet sitemde blog paylaşmaktayım. Oraya da göz atmayı unutma. Mutlaka ilgini çekebilecek bir şeyler bulacaksın...
+</p>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+<div align="center">
 
-### Technologies
+  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denizbektas/)](https://www.linkedin.com/in/denizbektas/)
+  [![Medium Badge](https://img.shields.io/badge/-@syrashid-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com)
+  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@denizbektas.com.tr)](mailto:info@denizbektas.com.tr)
+</div>
+<br>
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+<h3>How I'd define myself...literally</h3>
+
+ ```ruby
+ class Sy
+   def initialize
+     @name = 'Sy Rashid'
+     @age = 29
+     @work = 'MangoTree Dev'
+     @education = [ 'Georgia Tech', 'Le Wagon' ]
+     @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
+   end
+
+   def current_location
+     'Washington D.C, USA'
+   end
+
+   def next_location
+     'Lisbon, Portugal'
+   end
+
+   def currently
+     {
+       enrolled: 'Vue - The Complete Guide (w/ Router, Vuex, Composition API)',
+       reading: 'The Pragmatic Programmer',
+       tinkering: 'Hotwire'
+      }
+   end
+ end
+ ```
+ 
+<br>
+
+### What I always play with
+<p> 
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849655/ruby_nrq1jy.png" alt="ruby-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850690/rails_1_vess2v.png" alt="rails-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849656/figma_ugopbh.png" alt="figma-logo">
+</p>
+
+<br>
+
+### What I sometimes play with
+<p>
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849659/jquery_lvyzat.png" alt="jquery-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849659/mapbox_ik768l.png" alt="mapbox-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849658/soap_oujliq.png" alt="soap-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849658/aws_zdxicw.jpg" alt="aws-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849657/ux-ui-logo_g1gptz.png" alt="ux-ui-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849655/stripe_wpdp4s.png" alt="stripe-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849655/algolia_pgipvv.png" alt="algolia-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849654/websockets_owvtbv.png" alt="websockets-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/redis_xtyczu.png" alt="redis-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/google_gqugc7.png" alt="autocomplete-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/node-js_tkywbk.png" alt="nodejs-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849652/sweetalert_fizd2k.png" alt="sweetalert-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849652/linkedin_obs3m2.png" alt="linkedin-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849652/pwa-logo_nxppg4.png" alt="pwa-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849651/new_cloudinary_logo_square_kninl9.png" alt="cloudinary-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849651/postmark_o4dr2s.png" alt="postmark-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849650/twilio_j6qvbk.png" alt="twilio-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849651/googlemaps_uujgzn.png" alt="googlemaps-logo">
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849651/googledeveloper_dpefgw.png" alt="google-dev-logo">
+</p>
+
+<br>
+
+### Quick stats about me
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=syrashid.syrashid) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/syrashid) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/syrashid)
