@@ -1,89 +1,28 @@
-<h1 align="center">🤠 Merhaba, Ben Deniz Bektaş.</h1>
+<h1 align="center">Hi 👋, I'm Deniz Bektas</h1>
+<h3 align="center">DevSecOps Engineer</h3>
 
-<p align="center">
-Fırat Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Python, Java ve Javascript dillerinde kendi çapımda projeler geliştirmekte, ve bu geliştirdiğim projererimi github sayfamda yayınlamktayım. Github profilime hoşgeldiniz.
+- 🌱 I’m currently learning **Node.JS, DevOps, Cryptography**
+
+- 👨‍💻 All of my projects are available at [https://denizbektas.com.tr/projeler](https://denizbektas.com.tr/projeler)
+
+- 📝 I regularly write articles on [https://denizbektas.com.tr](https://denizbektas.com.tr)
+
+- 💬 Ask me about **PHP, Node JS, Java, Python**
+
+- 📫 How to reach me **deniz@lorem.one**
+
+- 📄 Know about my experiences [https://cv.denizbektas.com.tr](https://cv.denizbektas.com.tr)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/denizbektaspy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="denizbektaspy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/denizbektas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denizbektas" height="30" width="40" /></a>
+<a href="https://instagram.com/bugresearch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bugresearch" height="30" width="40" /></a>
+<a href="https://medium.com/bugresearch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="bugresearch" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bugresearch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bugresearch" height="30" width="40" /></a>
 </p>
-<p align="center"> 
-Aynı zamanda "Öğretmek, ikinci kere öğrenmektir" mottosuyla kişisel internet sitemde blog paylaşmaktayım. Oraya da göz atmayı unutma. Mutlaka ilgini çekebilecek bir şeyler bulacaksın...
-</p>
 
-<div align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-  [![Linkedin Badge](https://img.shields.io/badge/-denizbektas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denizbektas/)](https://www.linkedin.com/in/denizbektas/)
-  [![Website Badge](https://img.shields.io/badge/-denizbektas.com.tr-046?style=flat-square&label&logo=Wordpress&logoColor=white&link=https://denizbektas.com.tr/)](https://denizbektas.com.tr/)
-  [![Medium Badge](https://img.shields.io/badge/-@bugresearch-red?style=flat-square&label&logo=Instagram&logoColor=white&link=https://instagram.com/bugresearch/)](https://instagram.com/bugresearch)
-  [![Gmail Badge](https://img.shields.io/badge/-deniz@denizbektas.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deniz@denizbektas.me)](mailto:deniz@denizbektas.me)
-</div>
-<br>
-
-<h3>Hakkımda</h3>
-
- ```json
-{
-    "name" : "Deniz Bektaş",
-    "birtday" : "21 June 2002",
-    "location" : "Istanbul, Turkey",
-    "education" : [
-        {
-            "type" : "High School",
-            "name" : "Kemal Hasoglu Anatolian High Scool",
-            "graduation" : "2020"
-        },
-        {
-            "type" : "Univercity",
-            "name" : "Firat Univercity",
-            "department": "Computer Engineering",
-            "site" : "www.firat.edu.tr",
-            "graduation" : "Maybe 2024..."
-        }
-    ],
-    "languages" : [
-        {
-            "name" : "Turkish",
-            "level" : "Native Speaker"
-        },
-        {
-            "name" : "English",
-            "level" : "B2"
-        },
-        {
-            "name" : "German",
-            "level" : "A1"
-        }
-    ],
-    "programming-languages": [
-        "Python","Javascript","Java","C++","PHP"
-    ],
-    "job-history" : [{"desc" : "Maybe Future..."}], 
-    "contact-me" : [
-        {
-            "name" : "Website",
-            "url" : "https://denizbektas.com.tr"
-        },
-        {
-            "name" : "Instagram",
-            "url" : "https://instagram.com/bugresearch"
-        },
-        {
-            "name" : "E-Mail",
-            "url" : "mailto:deniz@denizbektas.me"
-        },
-        {
-            "name" : "Telegram",
-            "url" : "https://t.me/@bugresearch"
-        }
-    ]
-}
- ```
-
-<br>
-
-### Quick stats about me
-| Github Stats | Top Languages |
-| --- | --- |
-| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=bugresearch&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bugresearch&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
-
-
-
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=bugresearch.bugresearch) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/bugresearch) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/bugresearch)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugresearch&show_icons=true&locale=en&layout=compact" alt="bugresearch" /></p>
