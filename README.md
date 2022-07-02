@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **PHP, Node JS, Java, Python**
 
-- 📫 How to reach me **deniz@lorem.one**
+- 📫 How to reach me **info[@]denizbektas.com.tr**
 
 - 📄 Know about my experiences [https://cv.denizbektas.com.tr](https://cv.denizbektas.com.tr)
 
